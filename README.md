@@ -20,6 +20,7 @@
 ### 📌 대표 프로젝트
 
 **[PIN-traVEL](https://github.com/Raderha/PIN-traVEL)** — 지도 기반 실시간 협업 여행 계획 서비스 (캡스톤디자인 · 팀장)  
+- 시스템 설계 및 각종 보고서 작성, 팀원/교수 미팅 일정 조율, 백엔드 일부 로직 구현
 - AWS 서버리스 아키텍처 설계 및 배포  
   `CloudFront + S3` · `API Gateway + Lambda` · `MongoDB Atlas` · `SSM Parameter Store`
 - AWS SAM 기반 IaC 배포 자동화
